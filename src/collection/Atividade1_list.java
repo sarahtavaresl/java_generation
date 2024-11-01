@@ -28,7 +28,7 @@ public class Atividade1_list {
 
 			System.out.println(cor);
 		}
-		listaCores.sort(null);
+		listaCores.sort(null);  //método para organizar em ordem crescente ou alfabética
 		
 		System.out.println("####################");
 		for (String cor : listaCores) {
