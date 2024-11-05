@@ -30,7 +30,7 @@ public class Atividade1 {
 			case 1:
 				System.out.println("Digite seu nome ");
 				nome = leia.next();
-				fila.add(nome);
+				fila.add(nome); ////
 				System.out.println("Cliente Adicionado!");
 
 				break;
